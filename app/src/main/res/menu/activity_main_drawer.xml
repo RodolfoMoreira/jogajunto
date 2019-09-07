@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_partidas"
+            android:title="@string/partidas" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_favoritos"
+            android:title="@string/favoritos" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_cartao"
+            android:title="@string/galeria" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/configuracao" />
+    </group>
+
+    <item android:title="Play Store">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_play"
+                android:title="@string/avaliar" />
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/sair"
+                android:icon="@drawable/ic_menu_close"
+                android:title="@string/sair" />
+        </menu>
+    </item>
+
+</menu>

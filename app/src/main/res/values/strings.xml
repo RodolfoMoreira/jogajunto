@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Joga Junto</string>
+
+    <string name="title_activity_main">Joga Junto</string>
+
+    <string name="navigation_drawer_open">Abrir aba de navegação</string>
+    <string name="navigation_drawer_close">Fechar aba de navegação</string>
+
+    <string name="partidas">Partidas</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="galeria">Galeria</string>
+    <string name="configuracao">Configuração</string>
+    <string name="avaliar">Avaliar</string>
+    <string name="sair">Sair</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
